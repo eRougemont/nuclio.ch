@@ -17,10 +17,6 @@ class ComposerStaticInit21e5e389be1bd932d12b0610cee37eb4
             'Oeuvres\\Teinte\\' => 15,
             'Oeuvres\\Kit\\' => 12,
         ),
-        'G' => 
-        array (
-            'GalenusVerbatim\\Verbatim\\' => 25,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -39,10 +35,6 @@ class ComposerStaticInit21e5e389be1bd932d12b0610cee37eb4
         'Oeuvres\\Kit\\' => 
         array (
             0 => __DIR__ . '/..' . '/oeuvres/kit/src',
-        ),
-        'GalenusVerbatim\\Verbatim\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/galenus-verbatim/verbatim/src',
         ),
     );
 

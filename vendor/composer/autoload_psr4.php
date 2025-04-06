@@ -10,5 +10,4 @@ return array(
     'Oeuvres\\Xsl\\' => array($vendorDir . '/oeuvres/xsl'),
     'Oeuvres\\Teinte\\' => array($vendorDir . '/oeuvres/teinte/src'),
     'Oeuvres\\Kit\\' => array($vendorDir . '/oeuvres/kit/src'),
-    'GalenusVerbatim\\Verbatim\\' => array($vendorDir . '/galenus-verbatim/verbatim/src'),
 );

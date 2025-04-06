@@ -2,6 +2,11 @@
     # content negogiations do strange things with /myfile > /myfile.php
     Options -MultiViews
 </IfModule>
+<If "req('Host') != 'localhost'">
+   RewriteEngine On
+   RewriteCond %{ENV:HTTPS} !on
+   RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</If>
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]

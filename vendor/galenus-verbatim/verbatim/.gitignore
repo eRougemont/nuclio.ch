@@ -1,8 +1,0 @@
-/vendor
-composer.lock
-
-*.db
-test*
-sitemap.xml
-*.db-*
-*.bak
