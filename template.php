@@ -22,17 +22,17 @@ $lang = Route::getAtt("lang");
 <header id="header"  class="nav-down">
     <div class="banner">
         <a class="brand" href="<?= Route::home_href() ?>.">
-            <img class="banner" src="<?= Route::home_href() ?>theme/atom.svg" />
+        <svg><use href="<?= Route::home_href() ?>theme/icons.svg#atom" /></svg>
             <div>
                 <div class="name">nuclio.ch</div>
                 <div class="moto">Nucléaire, histoires suisses</div>
             </div>
         </a>
         <nav id="tabs" class="tabs">
-            <a class="tab"><?= I18n::_('sources') ?></a>
-            <a class="tab"><?= I18n::_('analyses') ?></a>
-            <a class="tab"><?= I18n::_('chronologie') ?></a>
-            <a class="tab"><?= I18n::_('bibliographie') ?></a>
+            <a href="#" class="tab"><?= I18n::_('sources') ?></a>
+            <a href="#" class="tab"><?= I18n::_('analyses') ?></a>
+            <a href="#" class="tab"><?= I18n::_('chronologie') ?></a>
+            <a href="#" class="tab"><?= I18n::_('bibliographie') ?></a>
         </nav>
     </div>
 </header>

@@ -1,9 +1,10 @@
 @charset "UTF-8";
+@namespace svg url(http://www.w3.org/2000/svg);
 :root {
-    --bg: #fcf7e6;
+    --bg: #f8f8ff;
     --bgtext: #fff;
     --red: #c33;
-    --blue: #006;
+    --blue:hsl(47,5%,33%);
 }
 
 @font-face {
@@ -51,25 +52,53 @@
     }
 }
 
+/* safe fonts loading */
 body {
     font-family: Helvetica, Arial, sans-serif;
     background-color: var(--bg);
+    text-rendering: optimizeSpeed;
+    color: var(--blue);
 }
 
 .fonts-ok body {
     font-family: InterVariable;
     font-weight: 300;
     font-variant-alternates: character-variant(alt-1, alt-3, alt-4, alt-6, alt-9, alt-l, alt-I) styleset(round-quotes-and-commas, disambiguation);
+    text-rendering: optimizeLegibility;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 .banner {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
 
 a.brand {
     color: var(--blue);
     display: flex;
+    align-items: center;
     text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+/** Styling svg symbols */
+a.brand svg {
+    fill: var(--red);
+    stroke: var(--blue);
+}
+
+
+a.brand:hover svg {
+    stroke: var(--red);
+    fill: var(--blue);
 }
 
 a.brand .name {
@@ -83,9 +112,36 @@ a.brand .moto {
     line-height: 105%;
 }
 
+a.tab {
+    font-size: 1.3rem;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+    line-height: 95%;
+    padding: 1rem;
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+}
 
-a.brand img {
+a.tab::before {
+    content: "•";
+    padding-right: 0.5rem;
+    color: var(--red);
+}
+
+a.tab:hover::before {
+    color: var(--blue);
+}
+
+
+a.tab:hover {
+    background-color: var(--bgtext);
+    box-shadow: inset 0 0 1px #FFF, inset 0 1px 7px #EBEBEB, 0 3px 6px -3px #BBB;
+  }
+
+a.brand svg {
     float: left;
+    width: 5rem;
     height: 5rem;
 }
 
@@ -93,6 +149,56 @@ h1 {
 
 }
 
-h1.alt {
+#hero {
+    height: 50vh;
+    position: relative;
+}
 
+/* The hero image */
+#hero > .image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("nuclio-hero.jpg");
+    height: 100%;
+    filter: blur(1px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+#hero > .text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    color: #d0d0ff;
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    color: var(--bg);
+    text-shadow: 0px 0px 3px var(--blue);
+}
+
+article.article {
+    max-width: 40rem;
+    background-color: var(--bgtext);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+
+}
+
+.landing article.article {
+    background-color: inherit;
+}
+
+p {
+    text-align: justify;
+}
+
+#footer {
+    height: 12rem;
 }
