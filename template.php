@@ -44,10 +44,6 @@ $lang = Route::getAtt("lang");
     </div>
     <footer id="footer">
         <nav id="logos">
-            <a>logo ?</a>
-            <a>logo ?</a>
-            <a>logo ?</a>
-            <a>logo ?</a>
         </nav>
     </footer>
 </div>
