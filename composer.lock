@@ -1,0 +1,381 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "21e5e389be1bd932d12b0610cee37eb4",
+    "packages": [
+        {
+            "name": "erusev/parsedown",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown.git",
+                "reference": "c9dc49f68f7bd14e5aa107d86a08ce59203f02ee"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/c9dc49f68f7bd14e5aa107d86a08ce59203f02ee",
+                "reference": "c9dc49f68f7bd14e5aa107d86a08ce59203f02ee",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "php": ">=7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.5|^8.5|^9.6"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Parsedown": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
+            "keywords": [
+                "markdown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown/issues",
+                "source": "https://github.com/erusev/parsedown/tree/master"
+            },
+            "time": "2024-12-01T16:36:17+00:00"
+        },
+        {
+            "name": "erusev/parsedown-extra",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown-extra.git",
+                "reference": "acebd175967ac1224dc710ab6082e5a28c202c85"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/acebd175967ac1224dc710ab6082e5a28c202c85",
+                "reference": "acebd175967ac1224dc710ab6082e5a28c202c85",
+                "shasum": ""
+            },
+            "require": {
+                "erusev/parsedown": "dev-master",
+                "ext-dom": "*",
+                "ext-libxml": "*",
+                "ext-mbstring": "*",
+                "php": ">=7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.5|^8.5|^9.6"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ParsedownExtra": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "https://erusev.com"
+                }
+            ],
+            "description": "An extension of Parsedown that adds support for Markdown Extra.",
+            "homepage": "https://github.com/erusev/parsedown-extra",
+            "keywords": [
+                "markdown",
+                "markdown extra",
+                "parsedown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown-extra/issues",
+                "source": "https://github.com/erusev/parsedown-extra/tree/master"
+            },
+            "time": "2024-11-03T08:25:00+00:00"
+        },
+        {
+            "name": "galenus-verbatim/verbatim",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/galenus-verbatim/verbatim.git",
+                "reference": "c50a26d36461e50e3e303a0c0d82da0783d75e77"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/galenus-verbatim/verbatim/zipball/c50a26d36461e50e3e303a0c0d82da0783d75e77",
+                "reference": "c50a26d36461e50e3e303a0c0d82da0783d75e77",
+                "shasum": ""
+            },
+            "require": {
+                "ext-intl": "*",
+                "ext-pdo_sqlite": "*",
+                "oeuvres/kit": "dev-main",
+                "php": ">=7.2"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "GalenusVerbatim\\Verbatim\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nathalie Rousseau",
+                    "role": "Director and founder"
+                },
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Cahal Taaffe",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Publish greek texts lemmatized and packed in Sqlite with Verbapie https://github.com/galenus-verbatim/verbapie",
+            "support": {
+                "issues": "https://github.com/galenus-verbatim/verbatim/issues",
+                "source": "https://github.com/galenus-verbatim/verbatim/tree/main"
+            },
+            "time": "2023-10-26T14:38:50+00:00"
+        },
+        {
+            "name": "oeuvres/kit",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/kit.git",
+                "reference": "bb208f2123bc08b12a61468a88c63de20d17a991"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/bb208f2123bc08b12a61468a88c63de20d17a991",
+                "reference": "bb208f2123bc08b12a61468a88c63de20d17a991",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "ext-xsl": "*",
+                "ext-zip": "*",
+                "php": ">=7.2",
+                "psr/log": "1.1.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=9"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Kit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "Routing, logging, templating… small code for big texts",
+            "keywords": [
+                "log",
+                "logging",
+                "router",
+                "routing",
+                "template",
+                "templating",
+                "xml",
+                "xsl",
+                "xslt"
+            ],
+            "support": {
+                "issues": "https://github.com/oeuvres/kit/issues",
+                "source": "https://github.com/oeuvres/kit/tree/main"
+            },
+            "time": "2024-10-14T23:42:48+00:00"
+        },
+        {
+            "name": "oeuvres/teinte",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/teinte_php.git",
+                "reference": "747a3f7b6d1722b08ddf5126ef75cf4a926f693e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/teinte_php/zipball/747a3f7b6d1722b08ddf5126ef75cf4a926f693e",
+                "reference": "747a3f7b6d1722b08ddf5126ef75cf4a926f693e",
+                "shasum": ""
+            },
+            "require": {
+                "erusev/parsedown-extra": "dev-master",
+                "ext-tidy": "*",
+                "ext-xsl": "*",
+                "oeuvres/kit": "dev-main",
+                "oeuvres/xsl": "dev-main",
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=9"
+            },
+            "default-branch": true,
+            "bin": [
+                "bin/teinte"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Teinte\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "Transform texts from and to : TEI, DOCX, HTML, EPUB, MD.",
+            "support": {
+                "issues": "https://github.com/oeuvres/teinte_php/issues",
+                "source": "https://github.com/oeuvres/teinte_php/tree/main"
+            },
+            "time": "2025-01-24T18:46:30+00:00"
+        },
+        {
+            "name": "oeuvres/xsl",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/teinte_xsl.git",
+                "reference": "63e82ddc76262c3f88a118dd755fd33d44aac6bf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/teinte_xsl/zipball/63e82ddc76262c3f88a118dd755fd33d44aac6bf",
+                "reference": "63e82ddc76262c3f88a118dd755fd33d44aac6bf",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Xsl\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "XSLT-1.0 package to transform texts, from and to, TEI",
+            "support": {
+                "issues": "https://github.com/oeuvres/teinte_xsl/issues",
+                "source": "https://github.com/oeuvres/teinte_xsl/tree/main"
+            },
+            "time": "2025-02-12T19:00:38+00:00"
+        },
+        {
+            "name": "psr/log",
+            "version": "1.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/log.git",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/d49695b909c3b7628b6289db5479a1c204601f11",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Log\\": "Psr/Log/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for logging libraries",
+            "homepage": "https://github.com/php-fig/log",
+            "keywords": [
+                "log",
+                "psr",
+                "psr-3"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/1.1.4"
+            },
+            "time": "2021-05-03T11:20:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "oeuvres/teinte": 20,
+        "galenus-verbatim/verbatim": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

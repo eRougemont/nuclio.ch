@@ -1,0 +1,16 @@
+{
+    "name": "galenus-verbatim/teinte_galenus",
+    "description": "Convert OCR files",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Frédéric Glorieux",
+            "email": "frederic.glorieux@fictif.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "oeuvres/teinte": "dev-main"
+    },
+    "minimum-stability": "dev"
+}

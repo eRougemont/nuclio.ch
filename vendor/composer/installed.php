@@ -1,0 +1,98 @@
+<?php return array(
+    'root' => array(
+        'name' => 'galenus-verbatim/teinte_galenus',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '7bb82c82e639f4e975359e98abd46792298921d7',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'erusev/parsedown' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'c9dc49f68f7bd14e5aa107d86a08ce59203f02ee',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../erusev/parsedown',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'erusev/parsedown-extra' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'acebd175967ac1224dc710ab6082e5a28c202c85',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../erusev/parsedown-extra',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'galenus-verbatim/teinte_galenus' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7bb82c82e639f4e975359e98abd46792298921d7',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'galenus-verbatim/verbatim' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'c50a26d36461e50e3e303a0c0d82da0783d75e77',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../galenus-verbatim/verbatim',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'oeuvres/kit' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'bb208f2123bc08b12a61468a88c63de20d17a991',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../oeuvres/kit',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'oeuvres/teinte' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '747a3f7b6d1722b08ddf5126ef75cf4a926f693e',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../oeuvres/teinte',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'oeuvres/xsl' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '63e82ddc76262c3f88a118dd755fd33d44aac6bf',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../oeuvres/xsl',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => '1.1.4',
+            'version' => '1.1.4.0',
+            'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
