@@ -15,10 +15,10 @@ $lang = Route::getAtt("lang");
         <meta charset="utf-8"/>
         <title><?= Route::title('nuclio.ch') ?></title>
         <link rel="stylesheet" href="<?= Route::home_href() ?>theme/nuclio.css"  type="text/css"/>
-        <script src="theme/nuclio-fonts.js"></script>
+        <script src="<?= Route::home_href() ?>theme/nuclio-fonts.js"></script>
         <link rel="icon" href="<?= Route::home_href() ?>theme/atom-favicon.svg"/>
     </head>
-    <body class="<?=$body_class?>">
+    <body>
 <header id="header"  class="nav-down">
     <div class="banner">
         <a class="brand" href="<?= Route::home_href() ?>.">
@@ -29,7 +29,7 @@ $lang = Route::getAtt("lang");
             </div>
         </a>
         <nav id="tabs" class="tabs">
-            <a href="#" class="tab"><?= I18n::_('sources') ?></a>
+            <a href="<?= Route::home_href() ?>sources" class="tab"><?= I18n::_('sources') ?></a>
             <a href="#" class="tab"><?= I18n::_('analyses') ?></a>
             <a href="#" class="tab"><?= I18n::_('chronologie') ?></a>
             <a href="#" class="tab"><?= I18n::_('bibliographie') ?></a>

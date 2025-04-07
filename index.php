@@ -16,11 +16,21 @@ Route::template(__DIR__ . '/template.php');
 
 // welcome page
 Route::get('/', __DIR__ . '/php/landing.php');
+Route::get('/sources', __DIR__ . "/pages/nuclio_sources.html");
+
 
 // Cache source transform
-Route::get('/(\d\d\d\d-\d\d-\d\d.*)', __DIR__ . '/pages/docx.php');
+$html_cache = __DIR__ . '/html_cache/';
+Route::get(
+    '/(\d\d\d\d-\d\d-\d\d.*)',
+    __DIR__ . '/php/docx.php',
+    [
+        "docx_file" => __DIR__ . "/src/nuclio$1.docx",
+        "html_file" => "$html_cache$1.html"
+    ]
+);
 // try if a local html page is available
-Route::get('/(.*)', __DIR__ . '/html_cache/$1.html');
+Route::get('/(.*)', "$html_cache$1.html");
 
 
 // No Route has worked

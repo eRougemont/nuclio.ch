@@ -63,7 +63,7 @@ body {
 .fonts-ok body {
     font-family: InterVariable;
     font-weight: 300;
-    font-variant-alternates: character-variant(alt-1, alt-3, alt-4, alt-6, alt-9, alt-l, alt-I) styleset(round-quotes-and-commas, disambiguation);
+    font-variant-alternates: character-variant(alt-1, alt-3, alt-4, alt-6, alt-9, alt-l, alt-I) styleset(round-quotes-and-commas, disambiguation-except-zero);
     text-rendering: optimizeLegibility;
 }
 
@@ -187,17 +187,25 @@ h1 {
     text-shadow: 0px 0px 4px var(--dark);
 }
 
-article.article {
+.csl-bib-body,
+article.article,
+article.text {
     max-width: 40rem;
     background-color: var(--bgtext);
     margin-left: auto;
     margin-right: auto;
     padding: 2rem;
-
 }
 
+.csl-bib-body,
 .landing article.article {
+    padding: 0;
     background-color: inherit;
+}
+
+.abstract {
+    background-color: var(--bg);
+    padding: 1rem;
 }
 
 p {
@@ -206,4 +214,15 @@ p {
 
 #footer {
     height: 12rem;
+}
+
+a.csl-entry {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    color: inherit;
+}
+
+a.csl-entry:hover {
+    background-color: var(--bgtext);
 }

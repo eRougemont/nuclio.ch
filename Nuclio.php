@@ -10,8 +10,10 @@ require_once(__DIR__ . '/vendor/autoload.php');
 // require_once(dirname(__DIR__) . '/verbatim/Verbatim.php');
 
 use Oeuvres\Kit\{Filesys, Log, Xt};
+use Psr\Log\LogLevel;
+use Oeuvres\Kit\Logger\LoggerWeb;
 
-
+Log::setLogger(new LoggerWeb(LogLevel::ERROR));
 Nuclio::init();
 class Nuclio
 {

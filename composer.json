@@ -9,6 +9,18 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../citeproc-php",
+            "options": {
+                "symlink": true,
+                "versions": {
+                    "seboettg/citeproc-php": "2.7-dev"
+                }
+            }
+        }
+    ],
     "require": {
         "oeuvres/teinte": "dev-main"
     },

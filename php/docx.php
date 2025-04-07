@@ -10,22 +10,19 @@ use Oeuvres\Xsl\{Xpack};
  * Requested html page will be updated if needed.
  */
 
-
-// testing if there is a docx, test date
-// Log::setLogger(new LoggerWeb(LogLevel::DEBUG));
-// a caller 
-if (!isset($docx_file)) {
-    $name = Http::par('page', trim(Route::url_request(), '/\\'));
-    $docx_file = dirname(__DIR__) . "/docx/" . $name . ".docx";
-}
+$docx_file = Http::par('docx_file');
 if (!file_exists($docx_file)) {
     return false;
 }
-$name = pathinfo($docx_file, PATHINFO_FILENAME);
-$html_file = dirname(__DIR__) . "/html_cache/" . $name . ".html";
+$html_file = Http::par('html_file', null);
+if ($html_file === null) {
+    $html_file = dirname(__DIR__) . "/html_cache/" . trim(Route::url_request(), '/\\') . ".html";
+}
 $force = Http::par('force', null);
 
-// go out ?
+
+
+// cache OK
 if (
     !$force
     && file_exists($html_file)
@@ -33,13 +30,18 @@ if (
 ) return false;
 
 
+
 $docx = new Docx();
 $docx->open($docx_file);
+/* // for debug
+$docx->pkg();
+$docx->teilike();
+$docx->pcre();
+$docx->tmpl();
+echo $docx->teiXML();
+*/
 $docx->teiMake();
-
-// for debug
 // file_put_contents($html_file . ".xml", $docx->teiXML()); 
-
 $xsl_file = Xpack::dir() . 'tei_html_article.xsl';
 Xt::transformToUri(
     $xsl_file,

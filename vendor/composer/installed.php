@@ -3,7 +3,7 @@
         'name' => 'galenus-verbatim/teinte_galenus',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'faa9794ba22475ee3fa88db5042dd8bd3ea0a895',
+        'reference' => '73109d1e882597be9800b19fbb7a887caa365179',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -35,7 +35,7 @@
         'galenus-verbatim/teinte_galenus' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'faa9794ba22475ee3fa88db5042dd8bd3ea0a895',
+            'reference' => '73109d1e882597be9800b19fbb7a887caa365179',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -44,7 +44,7 @@
         'oeuvres/kit' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'ab0ba3d01d63af84aa59c57ac0a2b9a1774be6f8',
+            'reference' => '9f22046059026916f6a0b04d09e6c0bff87d6a4a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../oeuvres/kit',
             'aliases' => array(
@@ -55,7 +55,7 @@
         'oeuvres/teinte' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '747a3f7b6d1722b08ddf5126ef75cf4a926f693e',
+            'reference' => 'e28f4d7d53f01149c8fbe44c4b7d4bb6660c88de',
             'type' => 'library',
             'install_path' => __DIR__ . '/../oeuvres/teinte',
             'aliases' => array(
@@ -66,7 +66,7 @@
         'oeuvres/xsl' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '63e82ddc76262c3f88a118dd755fd33d44aac6bf',
+            'reference' => 'ad953c3cea0a34218f84f87373e02a071a406e51',
             'type' => 'library',
             'install_path' => __DIR__ . '/../oeuvres/xsl',
             'aliases' => array(
