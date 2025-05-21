@@ -1,0 +1,461 @@
+[
+	{
+		"id": "http://zotero.org/groups/5898992/items/AD42KLR3",
+		"type": "report",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1951-01-20fr-25A",
+		"event-place": "Paris",
+		"publisher-place": "Paris",
+		"title": "Journal de voyage de Denis de Rougemont à Paris",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					1,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/ZXUHWBG6",
+		"type": "chapter",
+		"call-number": "nuclio1976-00-00fr-25A-17",
+		"container-title": "Denis de Rougemont, l’écrivain, l’Européen. Études et témoignages",
+		"event-place": "Neuchâtel",
+		"page": "125-127",
+		"publisher": "La Baconnière",
+		"publisher-place": "Neuchâtel",
+		"title": "La création du CERN",
+		"author": [
+			{
+				"family": "Auger",
+				"given": "Pierre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/2MW8GX8V",
+		"type": "book",
+		"call-number": "ddr19750200cernfec",
+		"event-place": "Genève",
+		"note": "issued: 1975",
+		"number-of-pages": "66",
+		"publisher": "Bulletin du Centre européen de la culture",
+		"publisher-place": "Genève",
+		"title": "Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture",
+		"URL": "https://www.unige.ch/rougemont/livres/ddr19750200cernfec",
+		"issued": {
+			"date-parts": [
+				[
+					"1975",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/JQD7H35K",
+		"type": "personal_communication",
+		"abstract": "Dans cette lettre adressée au directeur général de l’Unesco, Jaime Torres Bodet (1902-1974), l’écrivain Denis de Rougemont (1906-1985) déplore l’absence de toute mention du rôle joué par le Centre européen de la culture (CEC) dans l’origine du projet de Laboratoire européen de physique nucléaire, alors qu’il en revendique clairement la priorité — depuis la résolution adoptée par la Conférence européene de la culture à Lausanne en décembre 1949 jusqu’à la réunion du 12 décembre 1950 au CEC à Genève. Il demande qu’à l’avenir cette contribution soit équitablement reconnue dans les documents et communications de l’Unesco.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1951-12-19fr-25A",
+		"language": "fr",
+		"note": "publisher: Genève",
+		"title": "Lettre à Jaime Torres Bodet",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					12,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/LPTQ9GK8",
+		"type": "personal_communication",
+		"abstract": "Dans le cadre de la préparation de la Conférence européenne de la culture (Lausanne, 8-12 décembre 1949), dont il est rapporteur, l’écrivain Denis de Rougemont (1906-1985) sollicite Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, afin d’obtenir un rapport sur l’état des recherches atomiques en Europe.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1951-06-26fr-25A",
+		"language": "fr",
+		"note": "publisher: Genève",
+		"title": "Lettre à Pierre Auger",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/5WWZWLXY",
+		"type": "report",
+		"abstract": "Ce compte rendu, rédigé par le poète et journaliste Jean-Paul de Dadelsen (1913-1957), chef du département des commissions d’études du Centre européen de la culture dirigé à Genève par l’écrivain Denis de Rougemont (1906-1985), fait état des discussion d’une réunion de la Commission de coopération scientifique du Centre, lors de laquelle un groupe de physiciens et de représentants scientifiques européens de premier plan adoptent à l’unanimité une résolution en faveur de la création d’un grand laboratoire européen de physique nucléaire, équipé d’un accélérateur de particules de très haute puissance. Parmi les participants, le physicien Pierre Auger (1899-1993), directeur de la section des sciences naturelles et exactes de l’Unesco, est chargé de lancer un bureau d’études à Paris et de préparer, en lien avec les gouvernements européens, un plan de construction et de financement du laboratoire. La Commission souligne l’urgence de renforcer les moyens scientifiques européens pour éviter la fuite des talents vers les États-Unis et permettre à l’Europe de rester un acteur majeur de la recherche fondamentale. Un centre de formation pour physiciens théoriciens et un programme de cours avancés sont également envisagés.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1950-12-18fr-25A",
+		"event-place": "Genève",
+		"language": "fr",
+		"publisher-place": "Genève",
+		"title": "Compte rendu analytique de la réunion du 12 décembre 1950 de la Commission de coopération scientifique du Centre européen de la culture",
+		"author": [
+			{
+				"family": "Dadelsen",
+				"given": "Jean-Paul",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/4FHB2K3I",
+		"type": "chapter",
+		"abstract": "Cette note confidentielle, rédigé par le poète et journaliste Jean-Paul de Dadelsen (1913-1957), alors chef du département des commissions d’études du Centre européen de la culture (CEC) dirigé à Genève par l’écrivain Denis de Rougemont (1906-1985), défend l’origine véritablement européenne du projet de Laboratoire européen de recherches nucléaires, en réponse aux critiques l’attribuant entre autres à une ingérence américaine. Il rappelle que l’idée a été formulée dès la Conférence européenne de la culture de Lausanne (décembre 1949), puis précisée lors de la réunion du CEC à Genève (12 décembre 1950). Selon l’auteur, le rôle de l’Unesco fut de relayer ce projet au niveau intergouvernemental, ce qui aboutit à la création du Conseil européen de la recherche nucléaire en 1952. Le choix de Genève comme site du futur laboratoire consacre l’initiative initiale portée par la Suisse et le Centre européen de la culture.",
+		"call-number": "nuclio1953-06-00fr-25A",
+		"container-title": "Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture",
+		"event-place": "Genève",
+		"language": "fr",
+		"page": "3-6",
+		"publisher": "Centre européen de la culture",
+		"publisher-place": "Genève",
+		"title": "Le projet de Laboratoire européen de recherches nucléaires est une initiative européenne",
+		"URL": "https://www.unige.ch/rougemont/livres/ddr19750200cernfec/2",
+		"author": [
+			{
+				"family": "Dadelsen",
+				"given": "Jean-Paul",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1953",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/KBL7L6B7",
+		"type": "personal_communication",
+		"abstract": "Dans cette lettre, l’écrivain Denis de Rougemont (1906-1985), directeur du Centre européen de la culture (CEC), informe le chimiste Mario A. Rollier (1909-1980) de l’évolution du projet de Laboratoire européen de physique nucléaire, depuis la résolution adoptée au CEC le 12 décembre 1950. Il déplore que, malgré les engagements initiaux du physicien Pierre Auger (1899-1993), chef du département des sciences exactes et naturelles de l’Unesco, et de l’administrateur du CEA Raoul Dautry (1880-1951), décédé entre temps, le projet ait progressivement échappé à la Commission du CEC, notamment en raison de l’attitude d’Auger, devenu indépendant dans sa démarche. Il informe Rollier qu’un consensus s’est dégagé lors d’une réunion de l’Union internationale de physique pure et appliquée (IUPAP) à Copenhague autour d’un synchrotron plutôt que d’un cosmotron. Constatant l’éloignement du Centre dans ce processus, il s’interroge sur les futures missions possibles de sa Commission de coopération scientifique et invite Rollier à formuler des propositions concrètes pour définir ses orientations à venir.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1951-11-22fr-25A",
+		"language": "fr",
+		"note": "publisher: Genève",
+		"title": "Lettre à Mario A. Rollier",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					11,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/A5HRNJRQ",
+		"type": "report",
+		"abstract": "La Commission de coopération scientifique du Centre européen de la culture, dirigé à Genève par l’écrivain Denis de Rougemont (1906-1985), recommande la création d’un laboratoire européen de physique nucléaire doté d’un accélérateur de particules de très haute puissance, financé par un fonds européen et soutenu par l’Unesco, avec un calendrier précis, la mise en place d’un bureau d’études à Paris, et la création d’un centre de formation pour physiciens théoriciens.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1950-12-12fr-25A",
+		"event-place": "Genève",
+		"language": "fr",
+		"publisher-place": "Genève",
+		"title": "Résolution de la Commission de coopération scientifique du Centre européen de la culture",
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/NPZCTECV",
+		"type": "report",
+		"abstract": "Par cette résolution, l’Unesco autorise son directeur général à encourager la création de centres de recherche régionaux pour renforcer la coopération scientifique internationale, sans engager le budget régulier de l’organisation.",
+		"call-number": "nuclio1950-06-17fr-25A",
+		"event-place": "Florence",
+		"language": "fr",
+		"publisher-place": "Florence",
+		"title": "Résolution n° 2.21 adoptée à la Conférence générale de l’Unesco",
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					6,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/VEKGW7Q6",
+		"type": "chapter",
+		"abstract": "Dans ce discours, le physicien et prix Nobel Isidore Rabi (1898-1988) appelle à la création de centres de recherche régionaux en Europe, comparables à ceux des États-Unis, afin de soutenir la science européenne, renforcer la coopération internationale et préserver la tradition scientifique au service de la paix, avec l’appui de l’Unesco comme catalyseur.",
+		"call-number": "nuclio1950-06-07fr-25A",
+		"container-title": "La Coopération européenne dans la recherche nucléaire",
+		"edition": "Unesco",
+		"event-place": "Florence",
+		"language": "fr",
+		"page": "8-9",
+		"publisher-place": "Florence",
+		"title": "Discours à la Conférence générale de l’Unesco, le 7 juin 1950",
+		"author": [
+			{
+				"family": "Rabi",
+				"given": "Isidore"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1954"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/2D8QJXD7",
+		"type": "report",
+		"abstract": "Dans ce discours, Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, plaide pour la création d’une institution européenne dédiée à la recherche énergétique, en particulier dans les domaines de l’astrophysique et de l’énergie atomique. Constatant les limites financières des États pris isolément, il affirme que seule une Europe unie pourra relever les défis techniques et économiques de demain, faute de quoi son avenir énergétique et industriel serait compromis.",
+		"archive": "Fonds du Mouvement européen",
+		"archive_location": "Archives historiques de l'Union européenne",
+		"call-number": "nuclio1949-12-08fr-25A-02",
+		"event-place": "Lausanne",
+		"language": "fr",
+		"publisher-place": "Lausanne",
+		"title": "Discours à la Conférence européenne de la culture",
+		"author": [
+			{
+				"family": "Dautry",
+				"given": "Raoul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/PPE3Z8GY",
+		"type": "personal_communication",
+		"abstract": "Dans le cadre de la préparation de la Conférence européenne de la culture (Lausanne, 8-12 décembre 1949), dont il est rapporteur, l’écrivain Denis de Rougemont (1906-1985) sollicite Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, afin d’obtenir un rapport sur l’état des recherches atomiques en Europe.",
+		"archive": "Archives du Centre européen de la culture",
+		"archive_location": "Bibliothèque du Geneva Graduate Institute",
+		"call-number": "nuclio1949-10-17fr-25A",
+		"language": "fr",
+		"note": "publisher: Genève",
+		"title": "Lettre à Raoul Dautry",
+		"URL": "https://nuclio.ch/1949-10-17fr",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/DYZKC6CM",
+		"type": "article-journal",
+		"abstract": "Dans cet article, Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, retrace l’évolution de l’idée, née lors de la Conférence européenne de la culture de Lausanne (8-12 décembre 1949), de créer un fonds européen pour la recherche scientifique et des centres de recherche spécialisés. Face aux limites des efforts nationaux, notamment en astrophysique et en physique nucléaire, la conférence avait recommandé une coopération renforcée entre États européens et avec l’Unesco. Cette idée a progressivement gagné le soutien d’organismes internationaux, aboutissant à des résolutions importantes à l’Unesco en 1950 et à une mobilisation croissante en faveur de la création de véritables institutions scientifiques européennes.",
+		"archive": "Archives du CERN",
+		"call-number": "nuclio1950-12-07fr-25A",
+		"container-title": "L’Activité nationale et internationale",
+		"language": "fr",
+		"page": "1-2",
+		"title": "Vers un fonds européen de la recherche scientifique",
+		"URL": "https://cds.cern.ch/collection/CERN%20Archives?ln=fr",
+		"author": [
+			{
+				"family": "Dautry",
+				"given": "Raoul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/2L6QQSNS",
+		"type": "report",
+		"abstract": "Cette résolution recommande de renforcer la coopération scientifique entre nations européennes, notamment par la création d’instituts nationaux autonomes et bien dotés, et par la mise en réseau de leurs responsables. Elle préconise aussi la création d’instituts européens spécialisés pour les domaines de recherche trop coûteux à l’échelle nationale, en lien avec les organismes nationaux et l’Unesco. À titre d’exemple, elle propose l’étude d’un Institut de science nucléaire orienté vers les applications civiles.",
+		"archive": "Fonds Mouvement européen",
+		"archive_location": "Archives historiques de l'Union européenne",
+		"call-number": "nuclio1949-12-12fr-25A",
+		"event-place": "Lausanne",
+		"language": "fr",
+		"publisher-place": "Lausanne",
+		"title": "Résolution de la Conférence européenne de la culture concernant la création d’instituts européens de coordination de la recherche scientifique",
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/MY3QK3AW",
+		"type": "report",
+		"abstract": "Dans ce rapport, l’écrivain Denis de Rougemont (1906-1985) dénonce la nationalisation et le contrôle politique de la recherche scientifique, en particulier en physique nucléaire, et plaide pour la libre circulation du savoir, la coopération européenne entre chercheurs, la création d’un Fonds européen pour la recherche scientifique, ainsi que l’établissement d’un Centre européen des recherches atomiques.",
+		"archive": "Fonds du Mouvement européen",
+		"archive_location": "Archives historiques de l'Union européenne",
+		"call-number": "nuclio1949-12-08fr-25A-03",
+		"event-place": "Lausanne",
+		"language": "fr",
+		"publisher-place": "Lausanne",
+		"title": "Rapport général de la Conférence européenne de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/4KM4CRAI",
+		"type": "report",
+		"abstract": "Dans ce message lu par Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, le mathématicien et physicien Louis de Broglie (1892-1987), prix Nobel de physique, appelle à la création d’un centre de recherche scientifique européen, au-delà des cadres nationaux, afin de mutualiser les moyens, coordonner les efforts des chercheurs, et favoriser une coopération intellectuelle symbolique de l’unité européenne. Il propose que ce centre incarne un modèle de collaboration désintéressée entre les nations, au service du progrès commun et de la civilisation.",
+		"archive": "Fonds du Mouvement européen",
+		"archive_location": "Archives historiques de l'Union européenne",
+		"call-number": "nuclio1949-12-08fr-25A-01",
+		"event-place": "Lausanne",
+		"language": "fr",
+		"publisher-place": "Lausanne",
+		"title": "Message (lu par Raoul Dautry) à la Conférence européenne de la culture",
+		"author": [
+			{
+				"family": "Broglie",
+				"given": "Louis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898992/items/XNT2KLEZ",
+		"type": "personal_communication",
+		"abstract": "Raoul Dautry (1880-1951), administrateur général du Commissariat à l’énergie atomique, informe l’écrivain Denis de Rougemont (1906-1985) qu’il lira un message de Louis de Broglie, prix Nobel de physique, à la Conférence européenne de la culture (Lausanne, 8-12 décembre 1949), et qu’il y évoquera la question des recherches atomiques.",
+		"archive": "Fonds Denis de Rougemont",
+		"archive_location": "Bibliothèque publique et universitaire de Neuchâtel",
+		"call-number": "nuclio1949-11-29fr-25A",
+		"language": "fr",
+		"note": "publisher: Paris",
+		"title": "Lettre à Denis de Rougemont",
+		"author": [
+			{
+				"family": "Dautry",
+				"given": "Raoul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					11,
+					29
+				]
+			]
+		}
+	}
+]

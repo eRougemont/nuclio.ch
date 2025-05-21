@@ -1,0 +1,28 @@
+[
+	{
+		"id": "http://zotero.org/users/8989645/items/GCC39K9K",
+		"type": "article-newspaper",
+		"call-number": "nuclio1955-08-13fr-25E",
+		"container-title": "La tribune de Genève",
+		"edition": "Edition",
+		"event-place": "Place",
+		"language": "fr",
+		"page": "5-7",
+		"publisher-place": "Place",
+		"title": "A la conférence atomique : abondants échanges de vues sur des sujets fort techniques.",
+		"URL": "https://www.e-newspaperarchives.ch/?a=d&d=TDG19550813-01.2.10.1",
+		"author": [
+			{
+				"literal": "OMS"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955"
+				]
+			],
+			"season": "août"
+		}
+	}
+]

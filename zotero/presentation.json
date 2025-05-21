@@ -1,0 +1,16 @@
+[
+	{
+		"id": "http://zotero.org/users/8989645/items/ZJJHTW7K",
+		"type": "speech",
+		"event-place": "Place",
+		"event-title": "Meeting name",
+		"genre": "Type ?",
+		"publisher-place": "Place",
+		"title": "title",
+		"author": [
+			{
+				"literal": "Presenter"
+			}
+		]
+	}
+]

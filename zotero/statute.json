@@ -1,0 +1,18 @@
+[
+	{
+		"id": "http://zotero.org/users/8989645/items/K8PDPMSY",
+		"type": "legislation",
+		"container-title": "Code",
+		"page": "1066,1068",
+		"title": "Name of Act",
+		"volume": "Code Number",
+		"author": [
+			{
+				"literal": "Full Name"
+			}
+		],
+		"issued": {
+			"literal": "Date enacted"
+		}
+	}
+]

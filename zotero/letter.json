@@ -1,0 +1,34 @@
+[
+	{
+		"id": "http://zotero.org/users/8989645/items/YPNH5N34",
+		"type": "personal_communication",
+		"abstract": "Résumé ?",
+		"archive": "fonds",
+		"archive_location": "cote",
+		"license": "TOP SECRET",
+		"title": "Titre de lettre ?",
+		"author": [
+			{
+				"family": "Nom",
+				"given": "Prénom",
+				"non-dropping-particle": "exp:"
+			}
+		],
+		"recipient": [
+			{
+				"family": "Nom",
+				"given": "Prénom",
+				"non-dropping-particle": "dest:"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1845",
+					11,
+					2
+				]
+			]
+		}
+	}
+]

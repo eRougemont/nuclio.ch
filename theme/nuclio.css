@@ -200,6 +200,7 @@ article.text {
 .csl-bib-body,
 .landing article.article {
     padding: 0;
+    margin-top: 3rem;
     background-color: inherit;
 }
 

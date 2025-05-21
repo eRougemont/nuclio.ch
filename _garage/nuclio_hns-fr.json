@@ -1,0 +1,1826 @@
+[
+
+
+{
+  "type": "chapter",
+  "id": "https://nuclio.ch/1945-08-06fr",
+  "URL": "https://nuclio.ch/1945-08-06fr",
+  "issued": {"date-parts": [["1945","08","06"]]},
+  "author": [{"family": "Truman", "given": "Harry S"}],
+  "archive_location": "https://www.trumanlibrary.gov/library/research-files/press-release-white-house?documentid=NA&amp;pagenumber=3",
+  "title": "Déclaration sur la bombe atomique",
+  "container-title": "L’Énergie atomique et la politique américaine, discours officiels et officieux",
+  "publisher-place": "Paris",
+  "event-place": "Paris",
+  "publisher": "Hachette",
+  "page": "19-23"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-08fr01",
+  "URL": "https://nuclio.ch/1945-08-08fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","08"]]},
+  "title": "Anticipations",
+  "author": [{"literal": "Florian"}],
+  "container-title": "Feuille d’avis de Neuchâtel",
+  "publisher-place": "Neuchâtel",
+  "event-place": "Neuchâtel",
+  "page": 1,
+
+  "note": "Billet du jour, en surtitre : Discours sans cérémonie."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-08fr02",
+  "URL": "https://nuclio.ch/1945-08-08fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","08"]]},
+    "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLE19450808-01.2.1&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Les inquiétudes que suscite l’apparition de la bombe atomique",
+"container-title": "La Liberté",
+  "publisher-place": "Fribourg",
+  "event-place": "Fribourg",
+"page": "1",
+  "note": "Extrait de la rubrique « Nouvelle du jour »."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-10fr01",
+  "URL": "https://nuclio.ch/1945-08-10fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","10"]]},
+  "title": "Deux bombes",
+  "container-title": "Le Démocrate",
+  "publisher-place": "Delémont",
+  "event-place": "Delémont"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-10fr02",
+  "URL": "https://nuclio.ch/1945-08-10fr02",
+  "language": "fr",
+  "author": [{"literal": "Hachès"}],
+  "issued": {"date-parts": [["1945","08","10"]]},
+  "title": "Avertissement ou réponse à certaines exigences ?",
+  "container-title": "Le Peuple genevois",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-10fr03",
+  "URL": "https://nuclio.ch/1945-08-10fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","10"]]},
+  "author": [{"literal": "X"}],
+  "title": "Qu’est-ce que la bombe atomique ?",
+  "container-title": "La Suisse",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "note": "Paru dans la rubrique « L’actualité »."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-12fr",
+  "URL": "https://nuclio.ch/1945-08-12fr",
+  "language": "fr",
+  "author": [{"literal": "Doug"}],
+  "issued": {"date-parts": [["1945","08","12"]]},
+  "title": "Vive la science",
+"container-title": "Tribune de Lausanne",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+  "note": "Extrait de la rubrique « Variété dominicale »."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-13fr",
+  "URL": "https://nuclio.ch/1945-08-13fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","13"]]},
+  "author": [{"family": "Extermann", "given": "Richard"}],
+  "title": "À propos de la “bombe atomique”",
+  "container-title": "La Suisse",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "note": "Richard Extermann (1911-2002). Collaborateur du professeur Paul Scherrer. Professeur à l’Institut de physique de l’Université de Genève dès 1946. Il a notamment représenté la Suisse à la Conférence atomique en août 1955 ainsi qu’au Conseil de l’Organisation européenne pour la recherche nucléaire en juin 1956."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-14fr",
+  "URL": "https://nuclio.ch/1945-08-14fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","14"]]},
+  "title": "Perspectives fascinantes",
+  "container-title": "Le Démocrate",
+  "publisher-place": "Delémont",
+  "event-place": "Delémont"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-15fr01",
+  "URL": "https://nuclio.ch/1945-08-15fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","15"]]},
+  "title": "La guerre des monstres",
+  "container-title": "Courrier de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "note": "Texte intégral de l’éditorial."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-15fr02",
+  "URL": "https://nuclio.ch/1945-08-15fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","15"]]},
+  "author": [{"family": "Prior", "given": "Eugène"}],
+  "title": "Espoirs et illusions sur la bombe atomique",
+  "container-title": "La Suisse",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "note": "Eugène Prior (1886-1963). Ingénieur EPZ, ancien professeur au Technicum."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-15fr03",
+  "URL": "https://nuclio.ch/1945-08-15fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","15"]]},
+  "author": [{"literal": "Ad. G."}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLS19450815-01.2.4&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "La science révolutionnaire",
+"container-title": "La Lutte syndicale. Organe officiel de la Fédération suisse des ouvriers sur métaux et horlogers",
+  "publisher-place": "Berne",
+  "event-place": "Berne",
+  "note": "A paru également dans <hi>Solidarité</hi> du 28 août 1945 (hebdomadaire de La Chaux-de-Fonds d’orientation socialiste)."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-15fr04",
+  "URL": "https://nuclio.ch/1945-08-15fr04",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","15"]]},
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLS19450815-01.2.5&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Les maîtres du soleil : l’énergie nucléaire captée par la science humaine",
+  "container-title": "La Lutte syndicale. Organe officiel de la Fédération suisse des ouvriers sur métaux et horlogers",
+  "publisher-place": "Berne",
+  "event-place": "Berne"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-16fr01",
+  "URL": "https://nuclio.ch/1945-08-16fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","16"]]},
+  "author": [{"literal": "E. B."}],
+  "title": "La bombe atomique et la Suisse",
+  "container-title": "Curieux",
+  "publisher-place": "Neuchâtel",
+  "event-place": "Neuchâtel",
+  "note": "Texte signé par les initiales E. B. (peut-être Eddy Bauer) dans « Billet de Berne »."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-16fr02",
+  "URL": "https://nuclio.ch/1945-08-16fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","16"]]},
+"author": [{"literal": "XXX"}],
+  "title": "Saurons-nous contrôler la bombe atomique ?",
+"container-title": "Curieux",
+"publisher-place": "Neuchâtel",
+"event-place": "Neuchâtel"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-16fr03",
+  "URL": "https://nuclio.ch/1945-08-16fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","16"]]},
+  "author": [{"family": "Weigle", "given": "Jean"}],
+  "archive_location": "https://scriptorium.bcu-lausanne.ch/zoom/193111/view?page=3&amp;p=separate&amp;tool=info&amp;view=0,0,3626,4574",
+  "title": "La bombe atomique",
+  "container-title": "L’Illustré",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+  "page": "3-4"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-16fr04",
+  "URL": "https://nuclio.ch/1945-08-16fr04",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","16"]]},
+  "author": [{"family": "Besson", "given": "René"}],
+  "archive_location": "https://scriptorium.bcu-lausanne.ch/zoom/193111/view?page=4&amp;p=separate&amp;tool=info&amp;view=0,0,3476,4538",
+  "title": "La nouvelle épée de Damoclès",
+  "container-title": "L’Illustré",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+  "page": "4"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-20fr",
+  "URL": "https://nuclio.ch/1945-08-20fr",
+  "language": "fr",
+  "author": [{"family": "Kobelt", "given": "Karl"}],
+  "issued": {"date-parts": [["1945","08","20"]]},
+  "title": "Le conseiller fédéral Kobelt évoque la bombe atomique",
+  "container-title": "La Suisse",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-24fr01",
+  "URL": "https://nuclio.ch/1945-08-24fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","24"]]},
+  "author": [{"family": "Jordan", "given": "Henri"}],
+  "title": "L’âge de l’uranium ou la civilisation sur la corde raide",
+  "container-title": "La Nation",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-24fr02",
+  "URL": "https://nuclio.ch/1945-08-24fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","24"]]},
+  "author": [{"literal": "Hachès"}],
+  "title": "Défense nationale",
+  "container-title": "Le Peuple genevois",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-24fr03",
+  "URL": "https://nuclio.ch/1945-08-24fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","24"]]},
+  "author": [{"family": "Grin", "given": "Edmond"}],
+  "title": "La désintégration de la matière, source d’énergie",
+  "container-title": "Voix ouvrière",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-08-30fr",
+  "URL": "https://nuclio.ch/1945-08-30fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","08","30"]]},
+  "title": "L’ère nouvelle",
+  "container-title": "Feuille d’avis de Neuchâtel",
+  "publisher-place": "Neuchâtel",
+  "event-place": "Neuchâtel"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-09-15fr",
+  "URL": "https://nuclio.ch/1945-09-15fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","09","15"]]},
+  "author": [{"family": "D.", "given": "E"}],
+  "title": "Le monde a changé",
+  "container-title": "Solidarité, hebdomadaire de la Fédération suisse des travailleurs du commerce, des transports et de l’alimentation",
+  "publisher-place": "La Chaux-de-Fonds",
+  "event-place": "La Chaux-de-Fonds"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-09-19fr01",
+  "URL": "https://nuclio.ch/1945-09-19fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","09","19"]]},
+  "author": [{"family": "Chételat", "given": "G"}],
+  "title": "Reconnaissance au pays des atomes",
+  "container-title": "La Lutte syndicale. Organe officiel de la Fédération suisse des ouvriers sur métaux et horlogers",
+  "publisher-place": "Berne",
+  "event-place": "Berne"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-09-19fr02",
+  "URL": "https://nuclio.ch/1945-09-19fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","09","19"]]},
+    "archive_location": "https://www.letempsarchives.ch/page/JDG_1945_09_19/1/article/7320857/cauchemar",
+  "title": "Rêverie sur un cauchemar : la bombe atomique",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "page": "1"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-09-29fr",
+  "URL": "https://nuclio.ch/1945-09-29fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","09","29"]]},
+  "title": "À propos de puissance atomique",
+  "container-title": "Tribune de Lausanne",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-09-00fr",
+  "URL": "https://nuclio.ch/1945-09-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","09"]]},
+  "author": [{"family": "Journet", "given": "Abbé"}],
+  "title": "À propos de puissance atomique",
+  "container-title": "Nova et Vetera",
+  "publisher-place": "Villars-sur-Glâne",
+  "event-place": "Villars-sur-Glâne"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-12-15fr",
+  "URL": "https://nuclio.ch/1945-12-15fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","12","15"]]},
+  "title": "Bluff autour de la bombe atomique",
+  "container-title": "Solidarité, hebdomadaire de la Fédération suisse des travailleurs du commerce, des transports et de l’alimentation",
+  "publisher-place": "La Chaux-de-Fonds",
+  "event-place": "La Chaux-de-Fonds"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1945-12-22fr",
+  "URL": "https://nuclio.ch/1945-12-22fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1945","12","22"]]},
+  "author": [{"family": "Haenny", "given": "Charles"}],
+  "archive_location": "https://www.e-periodica.ch/digbib/view?pid=bts-002%3A1945%3A71%3A%3A1207",
+  "title": "L’énergie atomique",
+  "container-title": "Bulletin technique de la Suisse romande",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+"page": "353-359"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-01-11fr",
+  "URL": "https://nuclio.ch/1946-01-11fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","01","11"]]},
+  "author": [{"family": "Leyvraz", "given": "René"}],
+  "title": "Sous le signe de la bombe atomique",
+  "container-title": "Courrier de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-01-18fr",
+  "URL": "https://nuclio.ch/1946-01-18fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","01","18"]]},
+  "author": [{"family": "Malche", "given": "Albert"}],
+  "title": "La crise du progrès",
+  "container-title": "Études littéraires, sociales et économiques",
+  "publisher-place": "Zurich",
+  "event-place": "Zurich",
+  "page": "14-23"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-00-00fr",
+  "URL": "https://nuclio.ch/1946-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946"]]},
+  "author": [{"family": "Lechner", "given": "J-M"}],
+  "title": "L’énergie atomique",
+  "container-title": "Études d’économie sociale et industrielle",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-00-00fr",
+  "URL": "https://nuclio.ch/1946-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946"]]},
+  "author": [{"family": "Saini", "given": "Hugo"}],
+  "title": "L’énergie atomique",
+  "container-title": "Études d’économie sociale et industrielle",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-02-07fr",
+  "URL": "https://nuclio.ch/1946-02-07fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","02","07"]]},
+  "author": [{"family": "Leyvraz", "given": "René"}],
+  "title": "La guerre des monstres",
+  "container-title": "Courrier de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-02-13fr",
+  "URL": "https://nuclio.ch/1946-02-13fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","02","13"]]},
+  "author": [{"family": "Weigle", "given": "Jean"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLS19460213-01.2.17.1&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "L’ère atomique",
+  "container-title": "La Lutte syndicale. Organe officiel de la Fédération suisse des ouvriers sur métaux et horlogers",
+  "publisher-place": "Berne",
+  "event-place": "Berne"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-03-13fr",
+  "URL": "https://nuclio.ch/1946-03-13fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","03","13"]]},
+  "author": [{"family": "Chavanne", "given": "André"}],
+  "title": "L’énergie atomique : les principes",
+"container-title": "Courrier de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-03-20fr",
+  "URL": "https://nuclio.ch/1946-03-20fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","03","20"]]},
+  "author": [{"family": "Chavanne", "given": "André"}],
+  "title": "L’énergie atomique : l’utilisation",
+  "container-title": "Courrier de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-10-16fr",
+  "URL": "https://nuclio.ch/1946-10-16fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","10","16"]]},
+    "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLS19461016-01.1.4&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Les sources d’énergie",
+  "container-title": "La Lutte syndicale. Organe officiel de la Fédération suisse des ouvriers sur métaux et horlogers",
+  "publisher-place": "Berne",
+  "event-place": "Berne"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1946-10-21fr",
+  "URL": "https://nuclio.ch/1946-10-21fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1946","10","21"]]},
+  "author": [{"family": "Duperrex", "given": "Emile"}],
+  "archive_location": "https://www.letempsarchives.ch/page/JDG_1946_10_21/7/article/7435124/Urseren",
+  "title": "Le barrage d’Urseren",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1951-09-08fr",
+  "URL": "https://nuclio.ch/1951-09-08fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1951","09","08"]]},
+  "author": [{"family": "Rossel", "given": "Jean"}],
+  "archive_location": "https://www.e-periodica.ch/digbib/view?pid=bts-002%3A1951%3A77%3A%3A881",
+  "title": "L’énergie atomique : applications actuelles et perspectives d’utilisation industrielle",
+  "container-title": "Bulletin technique de la Suisse romande",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+  "page": "237-243"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1953-06-00fr",
+  "URL": "https://nuclio.ch/1953-06-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1953","06"]]},
+  "author": [{"family": "Reichen", "given": "Charles-Albert"}],
+  "title": "L’énergie atomique au service de la paix",
+  "container-title": "Cahiers protestants",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne"
+
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1955-08-00fr",
+  "URL": "https://nuclio.ch/1955-08-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08"]]},
+  "author": [{"family": "Calder", "given": "Ritchie"}],
+  "title": "La plus grande aventure de l’humanité",
+  "note": "Division de l’information. OMS, Palais des Nations.",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1955-08-16fr",
+  "URL": "https://nuclio.ch/1955-08-16fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","16"]]},
+  "author": [{"family": "R.", "given": "Ch-H"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=LLE19550816-01.2.14&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Chronique boursière",
+  "container-title": "La Liberté",
+  "publisher-place": "Fribourg",
+  "event-place": "Fribourg",
+  "page": "3"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1955-08-16fr",
+  "URL": "https://nuclio.ch/1955-08-16fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","16"]]},
+  "author": [{"family": "Riedmatten", "given": "Rév. Père de"}],
+  "title": "L’énergie nucléaire au service de l’humanité et de la paix",
+  "event-place": "Genève",
+  "note": "Allocution prononcée par le Rév. Père de Riedmatten au cours de la Grand’Messe pontificale célébrée en la Basilique de Notre-Dame de Genève par son Excellence Mgr Charrière, évêque de Lausanne, Genève et Fribourg, le dimanche soir 14 août 1955 à 20h30, pour attirer la protection divine sur les travaux de la Conférence réunie à Genève pour l’utilisation pacifique de l’énergie atomique."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1955-08-12fr",
+  "URL": "https://nuclio.ch/1955-08-12fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","12"]]},
+  "author": [{"family": "Arcis", "given": "Max d’"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=NVE19550812-01.2.2.1&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Atomes",
+"container-title": "Nouvelliste valaisan",
+  "publisher-place": "Sion",
+  "event-place": "Sion",
+"page": "1"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1955-08-18fr",
+  "URL": "https://nuclio.ch/1955-08-18fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","18"]]},
+  "author": [{"family": "Arcis", "given": "Max d’"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=NVE19550818-01.2.2&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Énergie atomique",
+"container-title": "Nouvelliste valaisan",
+  "publisher-place": "Sion",
+  "event-place": "Sion",
+"page": "1"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1955-08-23fr",
+  "URL": "https://nuclio.ch/1955-08-23fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","23"]]},
+  "author": [{"family": "Arcis", "given": "Max d’"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=NVE19550823-01.2.5&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "L’élimination des déchets radioactifs",
+"container-title": "Nouvelliste valaisan",
+  "publisher-place": "Sion",
+  "event-place": "Sion",
+"page": "2"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1955-08-24fr",
+  "URL": "https://nuclio.ch/1955-08-24fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1955","08","24"]]},
+  "author": [{"family": "Arcis", "given": "Max d’"}],
+  "archive_location": "https://www.e-newspaperarchives.ch/?a=d&amp;d=NVE19550824-01.2.3&amp;e=-------fr-20--1--img-txIN--------0-----",
+  "title": "Petit bilan atomique",
+"container-title": "Nouvelliste valaisan",
+  "publisher-place": "Sion",
+  "event-place": "Sion",
+"page": "2"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1956-02-26fr",
+  "URL": "https://nuclio.ch/1956-02-26fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1956","02","26"]]},
+  "author": [{"family": "H."}],
+    "archive_location": "https://www.letempsarchives.ch/page/JDG_1956_02_29/5/article/7505068/atomique",
+  "title": "Cours d’introduction à l’énergie atomique",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "page": "5"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1956-04-17fr",
+  "URL": "https://nuclio.ch/1956-04-17fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1956","04","17"]]},
+  "author": [{"family": "Boveri", "given": "Walter"}],
+  "title": "Problèmes actuels de l’énergie nucléaire en Suisse",
+  "event-place": "Baden",
+  "event-title": "Assemblée générale ordinaire de la Réacteur SA, Würenlingen"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1956-08-24fr",
+  "URL": "https://nuclio.ch/1956-08-24fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1956","08","24"]]},
+  "author": [{"family": "Reverdin", "given": "Olivier"}],
+  "archive_location": "https://www.letempsarchives.ch/page/JDG_1956_08_24/1/article/7567335/atomique",
+  "title": "L’accord atomique avec les États-Unis",
+"container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+"page": "1"
+},
+
+{
+  "type": "chapter",
+  "id": "https://nuclio.ch/1957-02-08fr",
+  "URL": "https://nuclio.ch/1957-02-08fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957","02","08"]]},
+  "archive_location": "https://iris.who.int/bitstream/handle/10665/37054/WHO_TRS_151_fre.pdf?sequence=1&amp;isAllowed=y",
+  "author": [{"literal": "OMS"}],
+  "title": "Déclaration du sous-comité des utilisations pacifiques de l’énergie atomique de la Fédération mondiale pour la santé mentale approuvée par la 25ᵉ session du conseil exécutif de la Fédération, Londres",
+  "container-title": "Questions de santé mentale que pose l’utilisation de l’énergie atomique à des fins pacifiques — Rapport technique n° 151",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "page": "51-53"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1956-05-00fr01",
+  "URL": "https://nuclio.ch/1956-05-00fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1956","05"]]},
+  "author": [{"family": "Zipfel", "given": "Otto"}],
+  "title": "Il y a quelques années encore…",
+  "container-title": "Bulletin d’information du Délégué aux questions atomiques",
+  "page": "3-4"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1956-05-00fr02",
+  "URL": "https://nuclio.ch/1956-05-00fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1956","05"]]},
+  "title": "Il y a quelques années encore…",
+  "container-title": "Bulletin d’information du Délégué aux questions atomiques",
+  "page": "13-15"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1957-07-26fr",
+  "URL": "https://nuclio.ch/1957-07-26fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957","07","26"]]},
+    "archive_location": "https://www.letempsarchives.ch/page/JDG_1957_07_26/1/article/7687317/radioactifs",
+  "title": "Comment se débarrasser des débris radioactifs ?",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1957-00-00fr",
+  "URL": "https://nuclio.ch/1957-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957"]]},
+  "author": [{"family": "Chavanne", "given": "André"}],
+  "title": "L’industrie et l’enseignement nucléaires",
+  "container-title": "Industries atomiques"
+},
+
+{
+  "type": "report",
+  "id": "https://nuclio.ch/1957-11-23fr",
+  "URL": "https://nuclio.ch/1957-11-23fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957","11","23"]]},
+  "author": [{"literal": "Organisation mondiale de la santé"}],
+  "title": "La pollution de l’air : cinquième rapport du Comité d’experts de l’assainissement [réuni à Genève du 18 au 23 novembre 1957]",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "archive_location": "https://iris.who.int/handle/10665/37067",
+  "note": "coll. « Série de rapports techniques »"
+},
+
+{
+  "type": "report",
+  "id": "https://nuclio.ch/1957-11-30fr",
+  "URL": "https://nuclio.ch/1957-11-30fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957","11","30"]]},
+  "author": [{"literal": "Organisation mondiale de la santé"}],
+  "title": "Introduction de la médecine des radiations dans le programme des études médicales normales : cinquième rapport du Comité d’experts de la formation professionnelle et technique du personnel médical et auxiliaire [réuni à Genève du 25 au 30 novembre 1957]",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "archive_location": "https://iris.who.int/handle/10665/37064",
+  "note": "coll. « Série de rapports techniques »"
+},
+
+{
+  "type": "report",
+  "id": "https://nuclio.ch/1957-10-30fr",
+  "URL": "https://nuclio.ch/1957-10-30fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1957","10","30"]]},
+"author": [{"literal": "Organisation mondiale de la santé"}],
+  "title": "Questions de santé mentale que pose l’utilisation de l’énergie atomique à des fins pacifiques : rapport d’un Groupe d’étude [réuni à Genève du 21 au 26 octobre 1957]",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "archive_location": "https://iris.who.int/handle/10665/37054"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1958-09-01fr",
+  "URL": "https://nuclio.ch/1958-09-01fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1958","09","01"]]},
+  "event-place": "Genève",
+  "event-title": "Deuxième conférence internationale des Nations unies sur l’utilisation de l’énergie atomique à des fins pacifiques, 1ᵉʳ au 13 septembre 1958",
+  "title": "Compte rendu sténographique de la première séance."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1958-12-12fr",
+  "URL": "https://nuclio.ch/1958-12-12fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1958","12","12"]]},
+  "author": [{"family": "Zipfel", "given": "Otto"}],
+  "title": "La Suisse et l’énergie atomique",
+  "event-place": "Université de Lausanne",
+  "event-title": "Les conférences économiques et sociales de Lausanne",
+  "note": "Dr Otto Zipfel, Délégué du Conseil fédéral aux questions atomiques."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1960-00-00fr",
+  "URL": "https://nuclio.ch/1960-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1960"]]},
+  "author": [{"family": "Pontzen", "given": "Théodore C"}],
+  "title": "Le citoyen-consommateur devant l’atome",
+  "container-title": "Industries atomiques",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1961-00-00fr",
+  "URL": "https://nuclio.ch/1961-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1961"]]},
+  "author": [{"family": "Belser", "given": "W. E."}],
+  "title": "Questions d’assurance",
+  "publisher": "ASPEA",
+  "page": "34-40",
+  "event-title": "Introduction aux problèmes nucléaires",
+  "publisher-place": "Zurich",
+  "event-place": "Zurich"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1962-10-25fr",
+  "URL": "https://nuclio.ch/1962-10-25fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1962","10","25"]]},
+  "author": [{"family": "Keagy", "given": "W. R."}],
+  "publisher": "ASPEA",
+  "title": "Énergie atomique : le choix est déjà fait",
+
+  "note": "Keagy, W. R., directeur d’Atomelectra SA."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1964-00-00fr",
+  "URL": "https://nuclio.ch/1964-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1964"]]},
+  "author": [{"family": "Chavanne", "given": "André"}],
+  "title": "Relevé nucléaire en suisse",
+  "container-title": "Industries atomiques",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "issue": "3-4",
+  "page": "49"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1971-09-16fr01",
+  "URL": "https://nuclio.ch/1971-09-16fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1971","09","16"]]},
+  "title": "Utilisation de l’énergie atomique à des fins pacifiques : Message de bienvenue du président de la Confédération helvétique",
+  "author": [{"family": "Gnägi", "given": "Rudolf"}], 
+  "container-title": "Actes de la Quatrième conférence internationale sur l’utilisation de l’énergie atomique à des fins pacifiques organisée conjointement par l’Organisation des Nations unies et l’Agence internationale de l’énergie atomique, et tenue à Genève, du 6 au 16 septembre 1971. Compte rendu des discussions en français.",
+  "publisher": "Organisation des Nations unies, Agence internationale de l’énergie atomique",
+  "publisher-place": "Vienne",
+  "event-place": "Genève"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1971-09-16fr02",
+  "URL": "https://nuclio.ch/1971-09-16fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1971","09","16"]]},
+  "title":"Utilisation de l’énergie atomique à des fins pacifiques : Message de U Thant, Secrétaire général de l’Organisation des Nations unies",
+  "author": [{"family": "Thant", "given": "U."}], 
+  "container-title": "Actes de la Quatrième conférence internationale sur l’utilisation de l’énergie atomique à des fins pacifiques organisée conjointement par l’Organisation des Nations unies et l’Agence internationale de l’énergie atomique, et tenue à Genève, du 6 au 16 septembre 1971. Compte rendu des discussions en français.",
+  "publisher": "Organisation des Nations unies, Agence internationale de l’énergie atomique",
+  "publisher-place": "Vienne",
+  "event-place": "Genève"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1971-09-16fr03",
+  "URL": "https://nuclio.ch/1971-09-16fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1971","09","16"]]},
+  "title": "Utilisation de l’énergie atomique à des fins pacifiques : discussion sur les déchets",
+  "container-title": "Actes de la Quatrième conférence internationale sur l’utilisation de l’énergie atomique à des fins pacifiques, 6 au 16 septembre 1971, Compte rendu des discussions en français.",
+  "publisher": "Organisation des Nations unies, Agence internationale de l’énergie atomique",
+  "publisher-place": "Vienne",
+  "event-place": "Genève"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1971-09-16fr04",
+  "URL": "https://nuclio.ch/1971-09-16fr04",
+  "language": "fr",
+  "issued": {"date-parts": [["1971","09","16"]]},
+  "title": "Utilisation de l’énergie atomique à des fins pacifiques : l’opinion publique suisse face à l’énergie nucléaire",
+  "container-title": "Actes de la Quatrième conférence internationale sur l’utilisation de l’énergie atomique à des fins pacifiques, 6 au 16 septembre 1971, Compte rendu des discussions en français.",
+  "publisher": "Organisation des Nations unies, Agence internationale de l’énergie atomique",
+  "publisher-place": "Vienne",
+  "event-place": "Genève"
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1971-09-12fr",
+  "URL": "https://nuclio.ch/1971-09-12fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1971","09","12"]]},
+  "archive_location": "https://www.letempsarchives.ch/page/JDG_1971_09_11/3/article/7268876/atome",
+  "title": "L’atome et le public : gare au mépris de ceux “qui savent”",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève"
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1972-12-00fr",
+  "URL": "https://nuclio.ch/1972-12-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1972","12"]]},
+  "author": [{"family": "Rouget", "given": "P."}],
+  "title": "Déclaration du comité directeur de l’Institut suisse de la Vie",
+    "publisher-place": "Genève",
+    "note": "Pour le comité directeur : P. Rouget."
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1973-03-12fr01",
+  "URL": "https://nuclio.ch/1973-03-12fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","03","12"]]},
+  "title": "Résumé de prise de position sur la question de la prolifération des centrales nucléaires en Suisse",
+  "author": [{"literal": "Groupe 2002"}]
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1973-03-12fr02",
+  "URL": "https://nuclio.ch/1973-03-12fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","03","12"]]},
+  "title": "Centrales nucléaires : une urgente nécessité",
+"container-title": "Journal de Sierre et du Valais central",
+  "publisher-place": "Sierre",
+  "event-place": "Sierre"
+
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1973-03-12fr03",
+  "URL": "https://nuclio.ch/1973-03-12fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","03","12"]]},
+  "author": [{"literal": "Comité de coordination contre Verbois nucléaire"}],
+  "title": "Quelques raisons valables contre la centrale projetée à Verbois",
+  "note": "Case Postale 225, 1227 Carouge, CCP 12-20.788"
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1973-03-12fr04",
+  "URL": "https://nuclio.ch/1973-03-12fr04",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","03","12"]]},
+  "title": "Pétition contre l’implantation d’une centrale nucléaire à Verbois"
+},
+
+{
+  "type": "book",
+  "id": "https://nuclio.ch/1973-03-00fr",
+  "URL": "https://nuclio.ch/1973-03-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","03"]]},
+  "author": [{"family": "Sutter", "given": "René"}],
+  "title": "Pour ou contre les centrales nucléaires ?",
+  "note": "Texte paru sous forme de feuille volante dactylographié recto verso, signé René Sutter et suivi de la date (mars 1973) ajoutée ultérieurement à la main."
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1973-00-00fr",
+  "URL": "https://nuclio.ch/1973-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973"]]},
+  "author": [{"family": "Ledergerber", "given": "Elmar"}],
+  "container-title": "Panda. Revue du WWF suisse",
+  "volume": 3,
+  "issue": 73,
+  "page": "40-41",
+  "title": "Restriction de la liberté personnelle de déplacement à cause de l’énergie nucléaire",
+  "note": "Extrait de l’article : « La campagne publicitaire pour l’énergie atomique dissimule les faits essentiels »."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-05-15fr",
+  "URL": "https://nuclio.ch/1973-05-15fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","05","15"]]},
+  "author": [{"family": "Gallay", "given": "Éliane"}],
+  "title": "Énergie et croissance",
+  "event-title": "Conférence de presse tenue par la CCVN (Comité de coordination contre Verbois nucléaire)",
+  "note": "Mlle Éliane Gallay, membre du comité directeur de l’Institut suisse de la vie, section genevoise"
+
+},
+
+{
+  "type": "article-newspaper",
+  "id": "https://nuclio.ch/1973-06-05fr",
+  "URL": "https://nuclio.ch/1973-06-05fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","06","05"]]},
+  "title": "Verbois : les héritiers de la planète refusent l’héritage nucléaire",
+  "container-title": "Domaine public"
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1973-00-00fr",
+  "URL": "https://nuclio.ch/1973-00-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973"]]},
+  "author": [{"family": "Rossel", "given": "Jean"}],
+  "title": "Mon attitude",
+  "container-title": "Bulletin ASPEA",
+
+  "note": "Conclusion d’une lettre de Jean Rossel au Dr G. Wagner, président de la Commission fédérale de la protection contre les radiations, à la suite de la publication d’un compte rendu libre de la conférence de Jean Rossel à l’occasion de l’assemblée des membres de la Société suisse pour la promotion du milieu vital le 8 juin 1973 à Lenzbourg.",
+  "volume": "17/1974 annexe",
+  "page": "7-8"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1973-06-16fr",
+  "URL": "https://nuclio.ch/1973-06-16fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","06","16"]]},
+  "title": "Les centrales nucléaires : sécurité à long terme",
+  "author": [{"family": "Fivaz", "given": "R."}],
+  "event-place": "Grandvaux/Lausanne",
+  "container-title": "Convention intercantonale Vaud-Neuchâtel-Genève pour l’enseignement du 3ᵉ cycle de la physique en Suisse romande (CICP)"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1973-06-18fr",
+  "URL": "https://nuclio.ch/1973-06-18fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","06","18"]]},
+  "author": [{"family": "Hentsch", "given": "Léonard"}],
+  "container-title": "Assemblée générale ordinaire du lundi de la Société générale pour l’industrie électrique",
+  "title": "Allocution de Monsieur Léonard Hentsch",
+  "note": " Léonard Hentsch, président du Conseil d’administration"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-06-00fr",
+  "URL": "https://nuclio.ch/1973-06-00fr",
+  "language": "fr",
+  "author": [
+    {"literal": "WWF, comité de la section genevoise"},
+    {"literal": "CADAP"}
+  ],
+  "issued": {"date-parts": [["1973","06"]]},
+  "title": "Verbois nucléaire ; position du comité de la section genevoise du WWF et du CADAP"
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1973-07-16fr",
+  "URL": "https://nuclio.ch/1973-07-16fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","07","16"]]},
+  "author": [{"family": "Dunant", "given": "François"}],
+  "title": "La Société zoologique est contre la centrale nucléaire de Verbois",
+  "container-title": "Le Courrier",
+  "issue": "162",
+  "page": "10"
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1973-09-25fr",
+  "URL": "https://nuclio.ch/1973-09-25fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","09","25"]]},
+  "author":[{"literal": "Conseil national"}],
+  "container-title": "BOAF",
+  "volume": "CN 1973",
+  "page": "1195-1199",
+  "title": "Motion Ziegler au sujet du projet Verbois"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-10-00fr",
+  "URL": "https://nuclio.ch/1973-10-00fr",
+  "language": "fr",
+  "author":[
+    {"literal": "Parti socialiste"},
+    {"family": "Longet", "given": "René"},
+    {"family": "Erika", "given": "Sutter-Pleines"}
+  ],
+  "issued": {"date-parts": [["1973","10"]]},
+  "title": "Verbois nucléaire : le Parti socialiste dit NON, tant que les vrais problèmes ne sont pas réglés",
+  "note": "Appel électoral du Parti socialiste genevois sur feuille volante."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-12-00fr01",
+  "URL": "https://nuclio.ch/1973-12-00fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","12"]]},
+"author": [{"literal": "Comité de coordination contre Verbois nucléaire (CCVN)"}],
+  "title": "Aux habitants de Genève",
+  "note": "Feuille volante, recto verso, datée de décembre 1973."
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1973-12-00fr02",
+  "URL": "https://nuclio.ch/1973-12-00fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","12"]]},
+  "author": [{"family": "Rougemont", "given": "Nanik de"}],
+  "title": "Essayons de réagir avec bon sens",
+  "container-title": "Arcadie, Association contre la pollution, feuille d’information",
+  "issue": 6
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-12-00fr03",
+  "URL": "https://nuclio.ch/1973-12-00fr03",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","12"]]},
+  "author": [
+    {"family": "Rossi", "given": "Hubert "},
+    {"literal": "Groupe des habitants de Russin contre Verbois nucléaire"}
+  ],
+  "title": "Qui décide ?",
+  "note": "D’après un tract (deux pages dactylographiées) sans indication de lieu ou de date. Daté par nous : Fonds P. Weiss."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-12-00fr04",
+  "URL": "https://nuclio.ch/1973-12-00fr04",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","12"]]},
+  "author": [
+    {"literal": "Comité Action Logement (CAL)"}
+  ],
+  "title": "Positions du Comité Action Logement (CAL) sur Verbois nucléaire",
+  "note": "D’après 5 pages dactylographiées, copie carbone, sans signature et sans date. Date par nous, Fonds Sutter."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1973-12-00fr05",
+  "URL": "https://nuclio.ch/1973-12-00fr05",
+  "language": "fr",
+  "issued": {"date-parts": [["1973","12"]]},
+  "title": "Plus d’énergie… Encore plus d’industrie. Notre milieu de vie est en danger",
+  "note": "Tract non daté, Fonds Sutter, reproduction réduite de l’original, daté par nous fin 1973."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1974-01-00fr",
+  "URL": "https://nuclio.ch/1974-01-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1974","01"]]},
+  "author": [{"literal": "Groupe logement"}],
+  "title": "Verbois : progrès ou profit",
+  "event-place": "Genève",
+  "note": "D’après un tract non daté, signé et distribué à Genève par le « Groupe logement ». Daté par nous début 1974. Fonds Sutter."
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1974-02-15fr",
+  "URL": "https://nuclio.ch/1974-02-15fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1974","02","15"]]},
+  "author":[{"literal": "Conseil d’État du canton de Genève"}],
+  "title": "Préavis du Conseil d’État du canton de Genève à l’intention du Département fédéral des transports et communications et de l’énergie relatif à la demande d’approbation de site pour l’implantation d’une centrale nucléaire à Verbois",
+  "container-title": "Mémorial du Grand Conseil de Genève. Séance du 15 février 1974",
+  "page": "409-413",
+  "volume": "1974, I"
+},
+
+{
+  "type": "report",
+  "id": "https://nuclio.ch/1974-03-21fr",
+  "URL": "https://nuclio.ch/1974-03-21fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1974","03","21"]]},
+  "title": "[Allocution d’introduction]",
+  "container-title": "Rapport du conseil d’administration à l’Assemblée générale ordinaire des actionnaires du 21 mars 1974 sur l’exercice 1972-1973 (55ᵉ)",
+  "author": [{"literal": "Société anonyme, Énergie Ouest Suisse (EOS)"}],
+  "page": "7-9"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1974-06-00fr",
+  "URL": "https://nuclio.ch/1974-06-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1974","06"]]},
+  "title": "Contre la centrale nucléaire de Verbois, manifestons 15 juin 1974 Place Neuve à 14h30",
+  "event-place": "Genève",
+  "note": "D’après un tract non signé distribué par des habitants de Genève en vue de la manifestation du 15 juin 1974."
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1974-07-13fr",
+  "URL": "https://nuclio.ch/1974-07-13fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1974","07","13"]]},
+  "author": [{"family": "Wüthrich", "given": "R"}],
+  "title": "Centrale nucléaire de Verbois",
+  "container-title": "Bulletin de l’Association suisse des électriciens",
+  "issue": 14,
+  "pages": "1066,1068"
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1975-01-12fr",
+  "URL": "https://nuclio.ch/1975-01-12fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1975","01","12"]]},
+  "author": [{"literal": "Mouvement écologique européen"}],
+  "title": "Année européenne contre l’énergie nucléaire",
+  "note": "Reproduction réduite de l’original, Fonds Sutter."
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1975-01-00fr",
+  "URL": "https://nuclio.ch/1975-01-00fr",
+  "language": "fr",
+  "author": [{"literal": "W. G."}],
+  "issued": {"date-parts": [["1975","01"]]},
+  "title": "Centrales nucléaires : front commun contre les monopoles",
+  "container-title": "Tribune ouvrière",
+  "issue": 1,
+  "note": "Reproduction réduite de l’original, 1 feuille recto verso en offset (reproduction du verso seulement). Article en première page."
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1975-04-06fr",
+  "URL": "https://nuclio.ch/1975-04-06fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1975","04","06"]]},
+  "author": [{"family": "Rougemont", "given": "Denis de"}],
+  "title": "Message de soutien aux occupants de Kaiseraugst",
+  "event-place": "Kaiseraugst"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1975-04-26fr",
+  "URL": "https://nuclio.ch/1975-04-26fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1975","04","26"]]},
+  "author": [{"literal": "Les organisations de la Conférence de Berne"}],
+  "title": "Les centrales nucléaires contre les intérêts du peuple",
+  "note": "D’après un tract polycopié, fonds Sutter."
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1975-05-22fr",
+  "URL": "https://nuclio.ch/1975-05-22fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1975","05","22"]]},
+  "author": [{"family": "Ritschard", "given": "Willi"}],
+  "title": "Conférence de presse du 22 mai 1975 : Sécurité des centrales nucléaires. Allocution du Conseiller fédéral Willi Ritschard, chef du Département fédéral des transports et communications et de l’énergie.",
+  "note": "D’après un texte polycopié sans lieu ni date, 10 p."
+},
+
+{
+  "type":"chapter",
+  "id": "https://nuclio.ch/1976-03-00fr",
+  "URL": "https://nuclio.ch/1976-03-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1976","03"]]},
+  "author": [{"literal": "Église nationale protestante de Genève"}],
+  "title": "Résolution relative à l’énergie nucléaire",
+  "container-title": "Rapport de la commission de l’énergie nucléaire",
+  "note": "s.l.n.d. 26 p. "
+},
+
+{
+  "type":"chapter",
+  "id": "https://nuclio.ch/1976-02-10fr",
+  "URL": "https://nuclio.ch/1976-02-10fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1976","02","10"]]},
+  "author": [{"family": "Babaiantz", "given": "Christophe"}],
+  "title": "Exposé présenté à la Société de droit et de législation de Genève",
+  "container-title" : "Quelques considérations sur la législation suisse relative à l’énergie nucléaire",
+  "publisher": "SA Énergie Ouest Suisse (EOS)",
+  "publisher-place": "Lausanne",
+  "note": "Babaiantz, Christophe : président de la direction de la SA Énergie Ouest Suisse (EOS)."
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1976-05-07fr",
+  "URL": "https://nuclio.ch/1976-05-07fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1976","05","07"]]},
+  "author":[{"literal": "Grand Conseil de Genève"}],
+  "title": "Rejet du recours du Conseil d’État quant à l’autorisation de site pour Verbois nucléaire. Débat parlementaire cantonal — Grand Conseil de Genève",
+  "container-title": "Mémorial du Grand Conseil de Genève, séance du 7 mai 1976",
+  "page": "1416-1418",
+  "volume": "1976, II"
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1976-09-25fr",
+  "URL": "https://nuclio.ch/1976-09-25fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1976","09","25"]]},
+  "author": [{"family": "Hess", "given": "Pierre-Jean"}],
+  "title": "Seveso, Verbois, Malville, Hiroshima",
+  "container-title": "24 Heures",
+  "note": " Pierre-Jean Hess, éditeur responsable du <i>Neutron libéré</i>.\nParu dans la rubrique « Parti pris »."
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1976-12-17fr",
+  "URL": "https://nuclio.ch/1976-12-17fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1976","12","17"]]},
+  "author": [
+    {"family": "Clerc"},
+    {"family": "Dériaz"},
+    {"family": "Perrier"},
+    {"family": "Roch"},
+    {"family": "Sutter"}
+  ],
+  "title": "Motion concernant le surgénérateur Superphénix à Creys-Malville (Isère). Débat parlementaire cantonal — Grand Conseil de Genève",
+  "container-title": "Mémorial du Grand Conseil de Genève, séance du 17 décembre 1976",
+  "page": "4157",
+  "volume": "1976, IV",
+  "note": "Texte de la motion adoptée le 17 décembre 1976."
+},
+
+{
+  "type":"article-journal",
+  "id": "https://nuclio.ch/1977-01-00fr",
+  "URL": "https://nuclio.ch/1977-01-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","01"]]},
+  "title": "Centrales nucléaires",
+  "container-title": "Bulletin patronal",
+  "publisher-place": "Lausanne",
+  "event-place": "Lausanne",
+  "issue": 1
+},
+
+{
+  "type":"article-journal",
+  "id": "https://nuclio.ch/1977-02-00fr",
+  "URL": "https://nuclio.ch/1977-02-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","02"]]},
+  "title": "<i>Le Neutron libéré romand</i> : éditorial",
+  "author": [
+    {"family": "Hess", "given": "Pierre-Jean"},
+    {"literal": "Coopérative d’impressions nouvelles, Le Mont"}
+  ],
+  "container-title": "Le Neutron libéré romand",
+  "event-place": "Le Mont",
+  "publisher-place": "Le Mont",
+  "note": "Non daté. Daté par nous."
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-04-03fr",
+  "URL": "https://nuclio.ch/1977-04-03fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","04","03"]]},
+  "author": [{"family": "Monnier", "given": "Claude"}],
+  "archive_location": "https://www.letempsarchives.ch/page/JDG_1977_04_02/1/article/8297765/hochet",
+  "title": "L’Europe comme hochet ?",
+  "container-title": "Journal de Genève",
+  "publisher-place": "Genève",
+  "event-place": "Genève",
+  "page": "1"
+},
+
+{
+  "type":"article-journal",
+  "id": "https://nuclio.ch/1977-04-21fr",
+  "URL": "https://nuclio.ch/1977-04-21fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","04","21"]]},
+  "author": [{"family": "Keller", "given": "Paul"}],
+  "title": "Manipulations anti-nucléaires",
+  "container-title": "FAN-L’Express",
+  "publisher-place": "Neuchâtel",
+  "event-place": "Neuchâtel"
+
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-05-00fr",
+  "URL": "https://nuclio.ch/1977-05-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","05"]]},
+  "title": "Contre l’atome fou",
+  "container-title": "Tout va bien"
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-07-17fr",
+  "URL": "https://nuclio.ch/1977-07-17fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","07","17"]]},
+  "author": [{"family": "L.", "given": "R"}],
+  "title": "La position des marxistes révolutionnaires",
+  "container-title": "La Brèche"
+},
+
+{
+  "type":"chapter",
+  "id": "https://nuclio.ch/1977-07-27fr",
+  "URL": "https://nuclio.ch/1977-07-27fr",
+  "language": "fr",
+  "author": [
+    {"literal": "Organisation communiste Le Drapeau rouge, Vaud-Genève"},
+    {"literal": "Cercle communiste lutte prolétaire, Bienne"},
+    {"literal": "Kommunistische Organisation Arbeiter Politik, Zurich-Winterthur"},
+    {"literal": "Revolutionäre Gruppe, Basel"},
+    {"literal": "Coopérative d’impressions nouvelles, Le Mont"}
+  ],
+  "issued": {"date-parts": [["1977","07","27"]]},
+  "title": "Les couches populaires n’ont rien à attendre des parlements bourgeois et des initiatives sociales-démocrates",
+  "container-title": "Pour un moratoire nucléaire",
+  "note": "Extrait de tract"
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-08-04fr",
+  "URL": "https://nuclio.ch/1977-08-04fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","08","04"]]},
+  "title": "Communiqué de la section genevoise du WWF",
+  "container-title": "Ouvrier",
+  "author": [
+    {"family": "Roch"},
+    {"family": "Albisotti"},
+    {"family": "Chatelain"},
+    {"family": "Meylan"},
+    {"family": "Schellack"}
+  ]
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1977-08-04fr",
+  "URL": "https://nuclio.ch/1977-08-04fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","08","04"]]},
+  "title": "Communiqué de la Ligue marxiste révolutionnaire",
+  "author": [
+    {"literal": "Froidevaux"}
+  ]
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-08-04fr",
+  "URL": "https://nuclio.ch/1977-08-04fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","08","04"]]},
+  "author": [{"family": "Delvaux", "given": "Marcel"}],
+  "title": "Qui sont ces fanatiques allemands qui donnent le ton dans les manifestations écologiques antinucléaires ?",
+  "container-title": "Le Courrier",
+  "note": "Marcel Delvaux, correspondant à Bonn."
+},
+
+{
+  "type":"article-newspaper",
+  "id": "https://nuclio.ch/1977-08-29fr",
+  "URL": "https://nuclio.ch/1977-08-29fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","08","29"]]},
+  "author": [{"family": "Diesbach", "given": "Roger de"}],
+  "title": "La fête à Graben",
+"container-title": "Tribune-Le Matin"
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1977-10-03fr",
+  "URL": "https://nuclio.ch/1977-10-03fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","10","03"]]},
+  "author": [{"literal": "Groupe de Bellerive"}],
+  "title": "Déclaration du Groupe de Bellerive",
+  "event-place": "Genève",
+  "note": "6 p."
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1977-10-25fr",
+  "URL": "https://nuclio.ch/1977-10-25fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","10","25"]]},
+  "author": [
+    {"family": "Bauer"},
+    {"family": "Borner"},
+    {"family": "Cristin"},
+    {"family": "Deriaz"},
+    {"family": "Dupraz"},
+    {"family": "Gillet"},
+    {"family": "Longet"},
+    {"family": "Perret"},
+    {"family": "Perrier"},
+    {"family": "Roch"},
+    {"family": "Spielmann"},
+    {"family": "Wicky"}
+  ],
+  "title": "Motion concernant la construction de Superphénix, à Creys-Malville. Débat parlementaire cantonal — Grand Conseil de Genève",
+  "container-title": "Mémorial du Grand Conseil de Genève, séance du 25 octobre 1977",
+  "page": "5344-5345",
+  "volume": "1977, IV"
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1977-10-25fr",
+  "URL": "https://nuclio.ch/1977-10-25fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1977","10","25"]]},
+  "author": [{"literal": "Fédération des ouvriers du bois et du bâtiment (FOBB), section de Zurich"}],
+  "title": "Résolution adoptée par l’assemblée de la section FOBB Zurich"
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1978-01-11fr",
+  "URL": "https://nuclio.ch/1978-01-11fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1978","01","11"]]},
+  "author": [{"family": "Vonlanthen", "given": "Peter"}],
+  "title": "Le feu des étoiles est dangereux. Comment le maîtriser ?",
+  "event-title": "2e rencontre du Forum œcuménique suisse",
+  "event-place": "Gwatt",
+  "container-title": "« Énergie et emploi », dans Quelle suisse demain ? Vers un nouveau style de vie",
+  "page": "8-11",
+  "note": "Peter Vonlanthen, Secrétaire général du syndicat textile-chimio-papier."
+},
+
+{
+  "type": "personal_communication",
+  "id": "https://nuclio.ch/1978-03-00fr",
+  "URL": "https://nuclio.ch/1978-03-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1978","03"]]},
+  "author": [{"literal": "Comité indépendant pour l’information sur l’énergie (CIPIE)"}],
+  "recipient": [{"literal": "Société suisse des ingénieurs nucléaires"}],
+  "title": "Lettre en réponse aux ingénieurs pronucléaires de la Société suisse des ingénieurs nucléaires",
+
+  "note": "Lettre de 2 pages signée Comité indépendant pour l’information sur l’énergie (CIPIE), Lausanne, suivie de 124 signatures."
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1978-04-19fr",
+  "URL": "https://nuclio.ch/1978-04-19fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1978","04","19"]]},
+  "author": [{"family": "Ritschard", "given": "Willi"}],
+  "title": "L’énergie : thème politique explosif",
+  "container-title": "Discours au Conseil national",
+  "page": "1-3, 5-9",
+  "note": "Traduction officielle"
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1978-05-24fr",
+  "URL": "https://nuclio.ch/1978-05-24fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1978","05","24"]]},
+  "title": "Une résolution du conseil municipal d’Aire-la-Ville",
+  "author": [{"literal": "Conseil municipal d’Aire-la-Ville"}],
+  "volume": "Registre des procès-verbaux",
+  "page": "3-4",
+  "note": "Résolution voté à l’unanimité par le Conseil municipal d’Aire-la-Ville le 24 mai 1978, envoyé par M. le Maire avec une lettre d’accompagnement à diverses personnalités ainsi qu’à la presse. Paru également dans le <a href=\"https://www.letempsarchives.ch/page/JDG_1978_08_08/8/article/8362530/Aire-la-Ville\"><i>Journal de Genève</i></a>, 8 août 1978"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1979-06-10fr",
+  "URL": "https://nuclio.ch/1979-06-10fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","06","10"]]},
+  "author": [{"literal": "Mouvement antinucléaire du Chablais (MAC)"}],
+  "title": "Le Chablais ne sera pas une poubelle atomique",
+  "event-title": "Semaine anti-déchets atomiques (5 au 10 juin 1978)"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1979-08-03fr",
+  "URL": "https://nuclio.ch/1979-08-03fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","08","03"]]},
+  "author": [{"literal": "Union syndicale suisse (USS)"}],
+  "title": "Résolution concernant la conception de l’énergie",
+  "note": "<i>Services publics</i> ?"
+},
+
+{
+  "type": "chapter",
+  "id": "https://nuclio.ch/1979-01-09fr",
+  "URL": "https://nuclio.ch/1979-01-09fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","01", "09"]]},
+  "title": "L’énergie électrique en Suisse",
+  "container-title": "L’énergie électrique en Suisse",
+  "event-place": "Berne",
+  "publisher-place": "Berne",
+  "author": [
+    {"family": "Haller", "given": "Louis"},
+    {"given": "Willi", "family": "Ritschard"},
+    {"given": "Eduard", "family": "Wildbolz"}
+  ],
+  "note": "Extrait de : Louis Haller (évêque de Béthlehem, ancien abbé de Saint-Maurice), L’énergie électrique en Suisse, avec une lettre de M. le Conseiller fédéral W. Ritschard, ainsi que la lettre pastorale des évêques suisses « Énergie et style de vie », suivie d’une conclusion de M. le pasteur Dr. Eduard Wildbolz, Berne, 9 janvier 1979. 59 p."
+},
+
+{
+  "type": "paper-conference",
+  "id": "https://nuclio.ch/1978-10-08fr",
+  "URL": "https://nuclio.ch/1978-10-08fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1978","10","08"]]},
+  "event-place": "Berne",
+  "author": [
+    {"family": "Hardmeier", "given": "Benno"},
+    {"given": "Robert", "family": "Lochhead"},
+    {"given": "Eduard", "family": "Wildbolz"}
+  ],
+  "title": "Rapport",
+  "event-title": "première Conférence nationale intersyndicale sur les questions de l’énergie et du nucléaire"
+
+},
+
+{
+  "type":"book",
+  "id": "https://nuclio.ch/1978-12-00fr",
+  "URL": "https://nuclio.ch/1978-12-00fr",
+  "language": "fr",
+  "author":[{"literal": "Office suisse d’information pour l’énergie nucléaire (OSIN)"}],
+  "issued": {"date-parts": [["1978","12"]]},
+  "title": "Ce qu’il faut savoir de notre approvisionnement énergétique et de l’initiative antinucléaire"
+
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1979-02-23fr",
+  "URL": "https://nuclio.ch/1979-02-23fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","02","23"]]},
+  "title": "La campagne ambiguë du Groupe de Bellerive : “sages” ou partisans ? [communiqué]",
+  "author":[{"literal": "Office d’électricité de la Suisse romande"}]
+},
+
+{
+  "type":"speech",
+  "id": "https://nuclio.ch/1979-04-00fr",
+  "URL": "https://nuclio.ch/1979-04-00fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","04"]]},
+  "author":[
+    {"literal": "Légitime défense"},
+    {"literal": "Coordination contre Verbois nucléaire"},
+    {"literal": "cp. 225"},
+    {"literal": "Comité de soutien à l’initiative"}
+  ],
+  "title": "L’accident nucléaire aux États-Unis : “L’impossible est arrivé” [tract]",
+
+  "note": "Daté ultérieurent à la la main (1979) et classé par nous en avril 1979. Fonds Sutter."
+},
+
+{
+  "type": "legislation",
+  "id": "https://nuclio.ch/1979-06-15fr",
+  "URL": "https://nuclio.ch/1979-06-15fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1979","06","15"]]},
+  "title": "Motion concernant le retrait de l’autorisation de site de Verbois nucléaire.",
+  "author":[{"literal": "Grand Conseil de Genève"}]
+
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1980-02-00fr",
+  "URL": "https://nuclio.ch/1980-02-00fr",
+  "language": "fr",
+  "author": "Comité lausannois antinucléaire (CLAN)",
+  "event-place":"Lausanne",
+  "issued": {"date-parts": [["1980","02"]]},
+  "title": "Avant de vouloir résoudre le problème des déchets radioactifs, il faut arrêter d’en produire !"
+},
+
+{
+  "type": "speech",
+  "id": "https://nuclio.ch/1980-05-07fr",
+  "URL": "https://nuclio.ch/1980-05-07fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1980","05","07"]]},
+  "author":[
+    {"literal": "Comité lausannois antinucléaire"},
+    {"literal": "Déclaration de Berne"}
+  ],
+  "event-place": "Lausanne",
+  "title": "Appel à une assemblée-débat sur le thème : « Nucléaire et tiers-monde »"
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1980-03-00fr01",
+  "URL": "https://nuclio.ch/1980-03-00fr01",
+  "language": "fr",
+  "issued": {"date-parts": [["1980","03"]]},
+  "title": "Énergie, Église et société",
+  "author": [{"literal": "Service de presse protestant"}],
+  "issue": 4
+},
+
+{
+  "type": "article-journal",
+  "id": "https://nuclio.ch/1980-03-00fr02",
+  "URL": "https://nuclio.ch/1980-03-00fr02",
+  "language": "fr",
+  "issued": {"date-parts": [["1980","03"]]},
+  "title": "Position du Comité de la Fédération des syndicats chrétiens de Genève",
+  "container-title": "Bulletin FSCG d’information",
+  "author": [{"literal": "Fédération des syndicats chrétiens de Genève"}],
+  "issue": 18,
+  "note": "3 p. recto-verso. Titre ajouté par nous. Titre original du bulletin : « Signons l’initiative cantonale sur l’énergie »."
+},
+
+{
+  "type":"paper-conference",
+  "id": "https://nuclio.ch/1980-05-07fr",
+  "URL": "https://nuclio.ch/1980-05-07fr",
+  "language": "fr",
+  "issued": {"date-parts": [["1980","05","07"]]},
+  "container-title": "OFEL Information",
+  "issue": 273,
+  "author": [
+    {"family": "Wintz", "given": "René"}
+  ],
+  "event-title":"Assemblée générale de l’Office d’électricité de la Suisse romande (OFEL)",
+  "title": "Exposé de René Wintz, président de l’OFEL"
+}
+
+]
