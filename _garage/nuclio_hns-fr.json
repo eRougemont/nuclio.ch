@@ -427,8 +427,8 @@
 
 {
   "type": "article-newspaper",
-  "id": "https://nuclio.ch/1946-00-00fr",
-  "URL": "https://nuclio.ch/1946-00-00fr",
+  "id": "https://nuclio.ch/1946-00-00fr01",
+  "URL": "https://nuclio.ch/1946-00-00fr01",
   "language": "fr",
   "issued": {"date-parts": [["1946"]]},
   "author": [{"family": "Lechner", "given": "J-M"}],
@@ -440,8 +440,8 @@
 
 {
   "type": "article-newspaper",
-  "id": "https://nuclio.ch/1946-00-00fr",
-  "URL": "https://nuclio.ch/1946-00-00fr",
+  "id": "https://nuclio.ch/1946-00-00fr02",
+  "URL": "https://nuclio.ch/1946-00-00fr02",
   "language": "fr",
   "issued": {"date-parts": [["1946"]]},
   "author": [{"family": "Saini", "given": "Hugo"}],
@@ -577,7 +577,7 @@
 
 {
   "type": "article-newspaper",
-  "id": "https://nuclio.ch/1955-08-16fr",
+  "id": "https://nuclio.ch/1955-08-16fr01",
   "URL": "https://nuclio.ch/1955-08-16fr",
   "language": "fr",
   "issued": {"date-parts": [["1955","08","16"]]},
@@ -592,7 +592,7 @@
 
 {
   "type": "speech",
-  "id": "https://nuclio.ch/1955-08-16fr",
+  "id": "https://nuclio.ch/1955-08-16fr02",
   "URL": "https://nuclio.ch/1955-08-16fr",
   "language": "fr",
   "issued": {"date-parts": [["1955","08","16"]]},
@@ -1023,8 +1023,8 @@
 
 {
   "type": "article-newspaper",
-  "id": "https://nuclio.ch/1973-00-00fr",
-  "URL": "https://nuclio.ch/1973-00-00fr",
+  "id": "https://nuclio.ch/1973-00-00fr01",
+  "URL": "https://nuclio.ch/1973-00-00fr01",
   "language": "fr",
   "issued": {"date-parts": [["1973"]]},
   "author": [{"family": "Ledergerber", "given": "Elmar"}],
@@ -1061,8 +1061,8 @@
 
 {
   "type": "article-journal",
-  "id": "https://nuclio.ch/1973-00-00fr",
-  "URL": "https://nuclio.ch/1973-00-00fr",
+  "id": "https://nuclio.ch/1973-00-00fr02",
+  "URL": "https://nuclio.ch/1973-00-00fr02",
   "language": "fr",
   "issued": {"date-parts": [["1973"]]},
   "author": [{"family": "Rossel", "given": "Jean"}],
@@ -1501,7 +1501,7 @@
 
 {
   "type":"article-newspaper",
-  "id": "https://nuclio.ch/1977-08-04fr",
+  "id": "https://nuclio.ch/1977-08-04fr01",
   "URL": "https://nuclio.ch/1977-08-04fr",
   "language": "fr",
   "issued": {"date-parts": [["1977","08","04"]]},
@@ -1518,7 +1518,7 @@
 
 {
   "type":"speech",
-  "id": "https://nuclio.ch/1977-08-04fr",
+  "id": "https://nuclio.ch/1977-08-04fr02",
   "URL": "https://nuclio.ch/1977-08-04fr",
   "language": "fr",
   "issued": {"date-parts": [["1977","08","04"]]},
@@ -1530,7 +1530,7 @@
 
 {
   "type":"article-newspaper",
-  "id": "https://nuclio.ch/1977-08-04fr",
+  "id": "https://nuclio.ch/1977-08-04fr03",
   "URL": "https://nuclio.ch/1977-08-04fr",
   "language": "fr",
   "issued": {"date-parts": [["1977","08","04"]]},
@@ -1565,8 +1565,8 @@
 
 {
   "type": "legislation",
-  "id": "https://nuclio.ch/1977-10-25fr",
-  "URL": "https://nuclio.ch/1977-10-25fr",
+  "id": "https://nuclio.ch/1977-10-25fr01",
+  "URL": "https://nuclio.ch/1977-10-25fr01",
   "language": "fr",
   "issued": {"date-parts": [["1977","10","25"]]},
   "author": [
@@ -1591,8 +1591,8 @@
 
 {
   "type":"speech",
-  "id": "https://nuclio.ch/1977-10-25fr",
-  "URL": "https://nuclio.ch/1977-10-25fr",
+  "id": "https://nuclio.ch/1977-10-25fr02",
+  "URL": "https://nuclio.ch/1977-10-25fr02",
   "language": "fr",
   "issued": {"date-parts": [["1977","10","25"]]},
   "author": [{"literal": "Fédération des ouvriers du bois et du bâtiment (FOBB), section de Zurich"}],
@@ -1772,8 +1772,8 @@
 
 {
   "type": "speech",
-  "id": "https://nuclio.ch/1980-05-07fr",
-  "URL": "https://nuclio.ch/1980-05-07fr",
+  "id": "https://nuclio.ch/1980-05-07fr01",
+  "URL": "https://nuclio.ch/1980-05-07fr01",
   "language": "fr",
   "issued": {"date-parts": [["1980","05","07"]]},
   "author":[
@@ -1810,8 +1810,8 @@
 
 {
   "type":"paper-conference",
-  "id": "https://nuclio.ch/1980-05-07fr",
-  "URL": "https://nuclio.ch/1980-05-07fr",
+  "id": "https://nuclio.ch/1980-05-07fr02",
+  "URL": "https://nuclio.ch/1980-05-07fr02",
   "language": "fr",
   "issued": {"date-parts": [["1980","05","07"]]},
   "container-title": "OFEL Information",
